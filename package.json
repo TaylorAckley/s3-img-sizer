@@ -1,0 +1,25 @@
+{
+  "name": "s3-img-sizer",
+  "version": "1.0.0",
+  "description": "Takes either a s3 bucket/or stream and resizes the image.   Will return a buffer or upload it to s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorackley/s3-image-sizer.git"
+  },
+  "keywords": [
+    "s3",
+    "sharp",
+    "image",
+    "resize"
+  ],
+  "author": "taylorackley@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taylorackley/s3-image-sizer/issues"
+  },
+  "homepage": "https://github.com/taylorackley/s3-image-sizer#readme"
+}
